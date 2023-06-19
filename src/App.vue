@@ -36,14 +36,13 @@
             text-decoration="underline"
             text-decoration-style="dashed"
             cursor="pointer"
-            href="https://nuxt.com"
+            href="https://zealy.io/c/chakrauivue/"
             target="_blank"
             display="inline-flex"
             justify-content="flex-start"
             align-items="center"
           >
-            <VueLogo h="1em" d="inline-flex" />
-            <ExternalLinkIcon />
+            Zealy
           </chakra.a>
         </chakra.h4>
       </c-stack>
