@@ -1,4 +1,4 @@
-# Chakra UI Vue Next v1 Starter
+# Chakra UI Vue v1 | Zealy Starter
 
 
 This repo is a starter template for the next version of Chakra UI Vue v1. v1 was rewriten from the ground up with the following new features:
